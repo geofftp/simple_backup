@@ -1,0 +1,13 @@
+## Sample Backup Config
+server: your_server_name
+error_email: your_email@somewhere.com
+local_dst: /root/backup/
+remote_dst: example_user@somewhere.rsync.net:backup_dir/
+src:
+    - /srv/www
+    - /etc
+    - /home/jeff/dev
+    - /root/dev
+    - /root/db_backup
+psql_user: your_psql_user
+db_dir: /root/db_backup
