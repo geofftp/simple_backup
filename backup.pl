@@ -660,14 +660,19 @@ Will work on all linux versions.
 =head1 BUGS AND LIMITATIONS
 
 There are no known bugs in this app.
-Please report problems to Geoff T. Parsons <geoff@bluecrushmarketing.com>
+Please report problems to Geoff T. Parsons <geoff@tparsons.co.uk>
 Patches are welcome.
 
 =head1 AUTHOR
 
-Geoff T. Parsons <geoff@bluecrushmarketing.com
+Geoff T. Parsons <geoff@tparsons.co.uk>
 
-=head1 LICENSE AND COPYRIGHT
+=head1 COPYRIGHT
 
-Copyright (c) 2013 Blue Crush Marketing (<geoff@bluecrushmarketing.com>). All rights reserved.
+Copyright (c) 2013 Geoff T. Parsons.
+
+=head1 LICENSE
+
+This library is free software and may be distributed under the same terms
+as perl itself.
 
